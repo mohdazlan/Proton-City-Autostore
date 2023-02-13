@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.exe
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.dll.config
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.deps.json
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.runtimeconfig.json
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.dll
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\bin\Debug\net6.0-windows\Proton Auto Store.pdb
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton_Auto_Store.Form1.resources
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton_Auto_Store.frmConfig.resources
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton_Auto_Store.Resources.resources
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.AssemblyInfo.vb
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.dll
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\refint\Proton Auto Store.dll
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.pdb
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\Proton Auto Store.genruntimeconfig.cache
+C:\Users\User\source\repos\Proton Auto Store\Proton Auto Store\obj\Debug\net6.0-windows\ref\Proton Auto Store.dll
